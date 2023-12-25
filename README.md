@@ -1,4 +1,4 @@
-OpenFHE - Open-Source Fully Homomorphic Encryption Library
+Implementation of Fast Blind Rotation for Bootstrapping FHEs
 =====================================
 
 ## Fast Blind Rotation for Bootstrapping FHEs
