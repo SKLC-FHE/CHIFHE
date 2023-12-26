@@ -7,7 +7,7 @@ We provide the following classes of examples for symmetric encryption and public
 ### Simple Boolean
 
 - evaluation of binary gates and multi-input gates
-- bootstrapping for `AP` (DM) and `GINX` (CGGI) and `LMKCDEY`
+- bootstrapping for `AP` (DM) and `GINX` (CGGI) and `LMKCDEY` and 'XZDDF'
 - serialization to binary and json formats
 
 ### Evaluation of functions
