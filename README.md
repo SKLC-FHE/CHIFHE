@@ -15,6 +15,7 @@ cd build
 cmake -DWITH_NTL=ON ..
 make 
 ```
+2. Run the `boolean-xzddf` program in `build/bin/examples/binfhe`
 
 
 
